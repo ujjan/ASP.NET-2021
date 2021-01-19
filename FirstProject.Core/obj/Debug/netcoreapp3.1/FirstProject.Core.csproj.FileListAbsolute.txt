@@ -1,0 +1,9 @@
+/Users/Ayaz/Desktop/programing/asp-dotnet/FirstProject/FirstProject.Core/bin/Debug/netcoreapp3.1/FirstProject.Core.deps.json
+/Users/Ayaz/Desktop/programing/asp-dotnet/FirstProject/FirstProject.Core/bin/Debug/netcoreapp3.1/FirstProject.Core.dll
+/Users/Ayaz/Desktop/programing/asp-dotnet/FirstProject/FirstProject.Core/bin/Debug/netcoreapp3.1/FirstProject.Core.pdb
+/Users/Ayaz/Desktop/programing/asp-dotnet/FirstProject/FirstProject.Core/obj/Debug/netcoreapp3.1/FirstProject.Core.csprojAssemblyReference.cache
+/Users/Ayaz/Desktop/programing/asp-dotnet/FirstProject/FirstProject.Core/obj/Debug/netcoreapp3.1/FirstProject.Core.AssemblyInfoInputs.cache
+/Users/Ayaz/Desktop/programing/asp-dotnet/FirstProject/FirstProject.Core/obj/Debug/netcoreapp3.1/FirstProject.Core.AssemblyInfo.cs
+/Users/Ayaz/Desktop/programing/asp-dotnet/FirstProject/FirstProject.Core/obj/Debug/netcoreapp3.1/FirstProject.Core.csproj.CoreCompileInputs.cache
+/Users/Ayaz/Desktop/programing/asp-dotnet/FirstProject/FirstProject.Core/obj/Debug/netcoreapp3.1/FirstProject.Core.dll
+/Users/Ayaz/Desktop/programing/asp-dotnet/FirstProject/FirstProject.Core/obj/Debug/netcoreapp3.1/FirstProject.Core.pdb
